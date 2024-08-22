@@ -1,3 +1,3 @@
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = ""
 DATABASE = "your_database_file_name.db" 
  
